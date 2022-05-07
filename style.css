@@ -1,3 +1,15 @@
+html {
+    line-height: 100%;
+}
+
+body {
+    /* height: 100ch; */
+    min-height: 100%;    
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
 .attribution a {
     color: hsl(228, 45%, 44%);
 }

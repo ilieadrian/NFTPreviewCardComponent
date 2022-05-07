@@ -1,6 +1,6 @@
 # Frontend Mentor - NFT preview card component solution
 
-Live version: https://nftpreviewcard.netlify.app
+Live version: https://nftpreviewcardia.netlify.app
 
 Built with:
 - HTML5
