@@ -32,10 +32,9 @@ To run the project locally:
 
  3. Open index.html in your browser to view the feature section.
 
-Alternatively, you can view the live version of the project [here](https://nftpreviewcardia.netlify.app).
 
 <h3>Learning Objectives</h3>
 
-  * Create visually appealing card components with hover interactions.
-  * Practice responsive design techniques to ensure a polished layout across devices.
-  * Expand the component to handle multiple NFTs in a gallery layout.
+  * Understand the fundamentals of recursion and its use cases.
+  * Learn to identify base cases and recursive cases in problem-solving.
+  * Explore recursion for common algorithms like Fibonacci, merge sort, and array manipulation..
